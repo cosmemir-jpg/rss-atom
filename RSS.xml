@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Noticias de Hardware</title>
-    <link>http://www.technews.example.com</link>
+    <link>https://cosmemir-jpg.github.io/rss-atom/</link>
     <description>Últimas noticias sobre hardware y memorias RAM</description>
     <language>es</language>
     <pubDate>Fri, 05 Dec 2025 12:00:00 GMT</pubDate>
@@ -11,14 +11,14 @@
     <!-- Noticia 1 -->
     <item>
       <title>Subida de precios en memorias RAM DDR5</title>
-      <link>https://technews.example.com/subida-precios-ram</link>
+      <link>https://cosmemir-jpg.github.io/rss-atom/noticias1.html/</link>
       <description><![CDATA[
         Los precios de los módulos DDR5 han aumentado un 15% debido a la <b>escasez de semiconductores</b> 
         y la alta demanda en el mercado de <i>gaming</i> y servidores.
-        Para más información visita: <a href="https://technews.example.com/subida-precios-ram">noticia completa</a>.
+        Para más información visita: <a href="https://cosmemir-jpg.github.io/rss-atom/noticia1.html">noticia completa</a>.
       ]]></description>
       <pubDate>Fri, 05 Dec 2025 12:00:00 GMT</pubDate>
-      <guid>https://technews.example.com/subida-precios-ram</guid>
+      <guid>https://cosmemir-jpg.github.io/rss-atom/noticia1.html</guid>
       <category>Hardware</category>
       <author>redaccion@technews.example.com</author>
     </item>
@@ -26,14 +26,14 @@
     <!-- Noticia 2 -->
     <item>
       <title>Lanzamiento de módulos DDR6 anticipado para 2026</title>
-      <link>https://technews.example.com/lanzamiento-ddr6</link>
+      <link>https://cosmemir-jpg.github.io/rss-atom/noticia2.html</link>
       <description><![CDATA[
         Los fabricantes anuncian que los módulos DDR6 estarán disponibles a mediados de 2026, 
         prometiendo <b>mayor velocidad y menor consumo energético</b> que DDR5.
-        Más detalles: <a href="https://technews.example.com/lanzamiento-ddr6">noticia completa</a>.
+        Más detalles: <a href="https://cosmemir-jpg.github.io/rss-atom/noticia2.html">noticia completa</a>.
       ]]></description>
       <pubDate>Thu, 04 Dec 2025 10:30:00 GMT</pubDate>
-      <guid>https://technews.example.com/lanzamiento-ddr6</guid>
+      <guid>https://cosmemir-jpg.github.io/rss-atom/noticia2.html</guid>
       <category>Hardware</category>
       <author>redaccion@technews.example.com</author>
     </item>
@@ -41,17 +41,18 @@
     <!-- Noticia 3 -->
     <item>
       <title>Innovaciones en RAM de alta velocidad para servidores</title>
-      <link>https://technews.example.com/ram-servidores</link>
+      <link>https://cosmemir-jpg.github.io/rss-atom/noticia3.html</link>
       <description><![CDATA[
         Nuevos módulos de RAM para servidores alcanzan velocidades de hasta 10.000 MHz, 
         mejorando significativamente el rendimiento en <i>datacenters</i>.
-        Más información en: <a href="https://technews.example.com/ram-servidores">noticia completa</a>.
+        Más información en: <a href="https://cosmemir-jpg.github.io/rss-atom/noticia3.html">noticia completa</a>.
       ]]></description>
       <pubDate>Wed, 03 Dec 2025 15:45:00 GMT</pubDate>
-      <guid>https://technews.example.com/ram-servidores</guid>
+      <guid>https://cosmemir-jpg.github.io/rss-atom/noticia3.html</guid>
       <category>Hardware</category>
       <author>redaccion@technews.example.com</author>
     </item>
 
   </channel>
+
 </rss>
