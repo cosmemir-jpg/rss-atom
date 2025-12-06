@@ -2,60 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Noticias de Hardware</title>
   <subtitle>Últimas noticias sobre hardware y memorias RAM</subtitle>
-  <link href="https://technews.example.com/atom.xml" rel="self" />
-  <link href="http://www.technews.example.com/" rel="alternate" />
+  <link href="https://cosmemir-jpg.github.io/rss-atom/atom.xml" rel="self" />
+  <link href="https://cosmemir-jpg.github.io/rss-atom/" rel="alternate" />
   <updated>2025-12-05T12:00:00Z</updated>
-  <id>http://www.technews.example.com/</id>
+  <id>https://cosmemir-jpg.github.io/rss-atom/</id>
   <author>
     <name>Redacción TechNews</name>
   </author>
 
-  <!-- Noticia 1 -->
   <entry>
     <title>Subida de precios en memorias RAM DDR5</title>
-    <link href="https://technews.example.com/subida-precios-ram" rel="alternate" />
-    <id>https://technews.example.com/subida-precios-ram</id>
+    <link href="https://cosmemir-jpg.github.io/rss-atom/noticia1.html" rel="alternate" />
+    <id>https://cosmemir-jpg.github.io/rss-atom/noticia1.html</id>
     <updated>2025-12-05T12:00:00Z</updated>
     <published>2025-12-05T12:00:00Z</published>
     <summary type="html"><![CDATA[
         Los precios de los módulos DDR5 han aumentado un 15% debido a la <b>escasez de semiconductores</b> 
         y la alta demanda en el mercado de <i>gaming</i> y servidores.
-        Para más información visita: <a href="https://technews.example.com/subida-precios-ram">noticia completa</a>.
+        Para más información visita: <a href="https://cosmemir-jpg.github.io/rss-atom/noticia1.html">noticia completa</a>.
     ]]></summary>
     <category term="Hardware" />
     <author><name>Redacción TechNews</name></author>
   </entry>
 
-  <!-- Noticia 2 -->
   <entry>
     <title>Lanzamiento de módulos DDR6 anticipado para 2026</title>
-    <link href="https://technews.example.com/lanzamiento-ddr6" rel="alternate" />
-    <id>https://technews.example.com/lanzamiento-ddr6</id>
+    <link href="https://cosmemir-jpg.github.io/rss-atom/noticia2.html" rel="alternate" />
+    <id>https://cosmemir-jpg.github.io/rss-atom/noticia2.html</id>
     <updated>2025-12-04T10:30:00Z</updated>
     <published>2025-12-04T10:30:00Z</published>
     <summary type="html"><![CDATA[
         Los fabricantes anuncian que los módulos DDR6 estarán disponibles a mediados de 2026, 
         prometiendo <b>mayor velocidad y menor consumo energético</b> que DDR5.
-        Más detalles: <a href="https://technews.example.com/lanzamiento-ddr6">noticia completa</a>.
+        Más detalles: <a href="https://cosmemir-jpg.github.io/rss-atom/noticia2.html">noticia completa</a>.
     ]]></summary>
     <category term="Hardware" />
     <author><name>Redacción TechNews</name></author>
   </entry>
 
-  <!-- Noticia 3 -->
   <entry>
     <title>Innovaciones en RAM de alta velocidad para servidores</title>
-    <link href="https://technews.example.com/ram-servidores" rel="alternate" />
-    <id>https://technews.example.com/ram-servidores</id>
+    <link href="https://cosmemir-jpg.github.io/rss-atom/noticia3.html" rel="alternate" />
+    <id>https://cosmemir-jpg.github.io/rss-atom/noticia3.html</id>
     <updated>2025-12-03T15:45:00Z</updated>
     <published>2025-12-03T15:45:00Z</published>
     <summary type="html"><![CDATA[
         Nuevos módulos de RAM para servidores alcanzan velocidades de hasta 10.000 MHz, 
         mejorando significativamente el rendimiento en <i>datacenters</i>.
-        Más información en: <a href="https://technews.example.com/ram-servidores">noticia completa</a>.
+        Más información en: <a href="https://cosmemir-jpg.github.io/rss-atom/noticia3.html">noticia completa</a>.
     ]]></summary>
     <category term="Hardware" />
     <author><name>Redacción TechNews</name></author>
   </entry>
 
 </feed>
+
+
