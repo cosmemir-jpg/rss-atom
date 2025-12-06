@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Noticias de Hardware</title>
   <subtitle>Últimas noticias sobre hardware y memorias RAM</subtitle>
-  <link href="https://cosmemir-jpg.github.io/rss-atom/atom.xml" rel="self" />
+  <link href="https://cosmemir-jpg.github.io/rss-atom/ATOM.xml" rel="self" />
   <link href="https://cosmemir-jpg.github.io/rss-atom/" rel="alternate" />
   <updated>2025-12-05T12:00:00Z</updated>
   <id>https://cosmemir-jpg.github.io/rss-atom/</id>
@@ -56,5 +56,6 @@
   </entry>
 
 </feed>
+
 
 
