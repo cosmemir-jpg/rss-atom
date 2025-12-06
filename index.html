@@ -1,17 +1,32 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>Blog de Noticias de Hardware</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <h1>Bienvenidos a mi Blog de Hardware</h1>
-  <p>Últimas noticias sobre memorias RAM y componentes:</p>
-  <ul>
-    <li><a href="RSS.xml">RSS Feed</a></li>
-    <li><a href="ATOM.xml">Atom Feed</a></li>
-  </ul>
-  <p>Visita el sitio para leer las noticias completas.</p>
-</body>
+  <main class="container">
+    <h1>Bienvenidos a mi Blog de Hardware</h1>
+    <p>Últimas noticias sobre memorias RAM y componentes:</p>
 
+    <ul style="margin-top:12px;">
+      <li><a href="feed_rss.xml">RSS Feed</a></li>
+      <li><a href="feed_atom.xml">Atom Feed</a></li>
+    </ul>
+
+    <h2 style="margin-top:18px;font-size:1.1rem">Noticias</h2>
+    <ul style="margin-top:10px;">
+      <li><a href="noticia1.html">Subida de precios en memorias RAM DDR5</a></li>
+      <li><a href="noticia2.html">Lanzamiento de módulos DDR6 anticipado para 2026</a></li>
+      <li><a href="noticia3.html">Innovaciones en RAM de alta velocidad para servidores</a></li>
+    </ul>
+
+    <div class="feed-links" style="margin-top:18px">
+      <a href="feed_rss.xml">Ver RSS</a>
+      <a href="feed_atom.xml">Ver Atom</a>
+    </div>
+  </main>
+</body>
 </html>
+
