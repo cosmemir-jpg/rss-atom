@@ -1,0 +1,78 @@
+/* styles.css */
+:root{
+  --bg: #f0f0f0;
+  --card: #ffffff;
+  --text: #222;
+  --muted: #666;
+  --accent: #0a66c2;
+  --max-width: 800px;
+}
+
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{height:100%}
+body{
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  background: var(--bg);
+  color: var(--text);
+  line-height:1.6;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+  padding:40px 16px;
+  display:flex;
+  align-items:flex-start;
+  justify-content:center;
+}
+
+/* Contenedor central */
+.container{
+  width:100%;
+  max-width:var(--max-width);
+  background:var(--card);
+  border-radius:10px;
+  box-shadow:0 6px 20px rgba(20,20,30,0.08);
+  padding:28px;
+  margin:24px 0;
+}
+
+/* Cabecera de la noticia */
+.article-header{
+  margin-bottom:18px;
+}
+.article-title{
+  font-size:1.6rem;
+  margin-bottom:6px;
+  color:var(--text);
+}
+.article-meta{
+  font-size:0.9rem;
+  color:var(--muted);
+}
+
+/* Contenido */
+.article-body{
+  margin-top:14px;
+  font-size:1rem;
+  color:var(--text);
+}
+.article-body p{margin-bottom:12px}
+
+/* Enlaces */
+a{color:var(--accent);text-decoration:none}
+a:hover{text-decoration:underline}
+
+/* Enlaces de navegación en index */
+.feed-links{display:flex;gap:12px;margin-top:12px}
+.feed-links a{
+  background:#eef6ff;
+  color:var(--accent);
+  padding:8px 12px;
+  border-radius:6px;
+  font-weight:600;
+  border:1px solid rgba(10,102,194,0.08);
+}
+
+/* Responsive */
+@media (max-width:520px){
+  .container{padding:18px;border-radius:8px}
+  .article-title{font-size:1.25rem}
+}
