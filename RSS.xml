@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Noticias de Hardware</title>
     <link>https://cosmemir-jpg.github.io/rss-atom/</link>
@@ -8,10 +8,11 @@
     <pubDate>Fri, 05 Dec 2025 12:00:00 GMT</pubDate>
     <lastBuildDate>Fri, 05 Dec 2025 12:00:00 GMT</lastBuildDate>
 
-    <!-- Noticia 1 -->
+    <atom:link href="https://cosmemir-jpg.github.io/rss-atom/rss.xml" rel="self" type="application/rss+xml" />
+
     <item>
       <title>Subida de precios en memorias RAM DDR5</title>
-      <link>https://cosmemir-jpg.github.io/rss-atom/noticias1.html/</link>
+      <link>https://cosmemir-jpg.github.io/rss-atom/noticia1.html</link>
       <description><![CDATA[
         Los precios de los módulos DDR5 han aumentado un 15% debido a la <b>escasez de semiconductores</b> 
         y la alta demanda en el mercado de <i>gaming</i> y servidores.
@@ -23,7 +24,6 @@
       <author>redaccion@technews.example.com</author>
     </item>
 
-    <!-- Noticia 2 -->
     <item>
       <title>Lanzamiento de módulos DDR6 anticipado para 2026</title>
       <link>https://cosmemir-jpg.github.io/rss-atom/noticia2.html</link>
@@ -38,7 +38,6 @@
       <author>redaccion@technews.example.com</author>
     </item>
 
-    <!-- Noticia 3 -->
     <item>
       <title>Innovaciones en RAM de alta velocidad para servidores</title>
       <link>https://cosmemir-jpg.github.io/rss-atom/noticia3.html</link>
@@ -54,5 +53,5 @@
     </item>
 
   </channel>
-
 </rss>
+
